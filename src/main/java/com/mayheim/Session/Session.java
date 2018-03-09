@@ -24,7 +24,7 @@ public class Session {
         return this._header;
     }
 
-    public void Init(File file, int indexRef) {
+    public boolean Init(File file, int indexRef) {
         _sessionShortRef = indexRef;
         _sessionFile = file;
         try {
@@ -34,7 +34,7 @@ public class Session {
             _sessionReader = SessionVersionFactory.GetSessionRW(version);
             if(_sessionReader == null){
                 System.out.println("Could not load old session");
-                return;
+                return false;
             }
 
             _header = _sessionReader.deserializeHeader(br, version);
@@ -43,8 +43,9 @@ public class Session {
             br.close();
         } catch (IOException e) {
             e.printStackTrace();
+            return false;
         }
-
+        return true;
     }
 
     public String getSessionStamp(){

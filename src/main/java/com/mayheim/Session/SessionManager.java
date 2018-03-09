@@ -58,9 +58,11 @@ public class SessionManager {
             if (file.isDirectory() == false) {
                 if (file.getName().contains(".session")) {
                     Session session = new Session();
-                    session.Init(file, totalSessions);
-                    _sessions.put(totalSessions, session);
-                    totalSessions++;
+                    //if the file fails to load, returns false
+                    if(session.Init(file, totalSessions) ){
+                        _sessions.put(totalSessions, session);
+                        totalSessions++;
+                    }
                 }
             }
         }
@@ -68,19 +70,20 @@ public class SessionManager {
 
     private Session CreateSession(){
 
-        SessionHeader header = new SessionHeader();
         Session newSession = new Session();
+        newSession.setSessionHeader(_header);
         SourceStructure source = new SourceStructure();
         source.init(Paths.get(_header.get_rootDirectory()));
         source.PrintTree();
 
         UUID sessionId = UUID.randomUUID();
-        File sessionFile = new File(_header.get_rootDirectory().toString() + "\\" + sessionId.toString() + ".session" );
+        _header.set_sessionUUID(sessionId);
+        File sessionFile = new File(_header.get_rootDirectory().toString() + System.getProperty("file.separator")  + sessionId.toString() + ".session" );
         //Create the file
         try {
             sessionFile.createNewFile();
             FileWriter writer = new FileWriter(sessionFile);
-            writer.write("Test data");
+            writer.write("{ \"version\":\"1\" }");
             writer.close();
 
         }catch(IOException exception){

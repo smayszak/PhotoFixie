@@ -13,7 +13,7 @@ class SourceStructureTest {
     void canReadSingleDirectory() throws Exception {
         String[] args = new String[2];
         args[0] = "-i";
-        args[1] = "/usr/bin";
+        args[1] = "/home/steve/Pictures";
         ApplicationOptionsReader applicationOptionsReader = new ApplicationOptionsReader();
         SessionHeader header = applicationOptionsReader.buildSessionHeader(args);
         SourceStructure structure = new SourceStructure();
