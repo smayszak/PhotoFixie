@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhotoFixie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhotoFixie_jar</output-path>
+    <root id="archive" name="PhotoFixie.jar">
+      <element id="module-output" name="PhotoFixie" />
+    </root>
+  </artifact>
+</component>
