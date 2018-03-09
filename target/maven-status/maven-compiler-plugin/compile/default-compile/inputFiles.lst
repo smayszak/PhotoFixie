@@ -1,0 +1,17 @@
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Session/SessionHeader.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Session/SessionBody.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Config/ApplicationOptionsReader.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Session/RunSequence.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Config/ApplicationOption.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Session/SessionManager.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Config/Help.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Session/ISessionVersion.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Session/Session.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Session/SessionVersionV1.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Runtime/SourceStructure.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Runtime/FileContext.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Main.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Runtime/DirectoryTreeNode.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/com/mayheim/Session/SessionVersionFactory.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/tests/ApplicationOptionsReaderTest.java
+/home/steve/IdeaProjects/PhotoFixie/src/main/java/tests/SourceStructureTest.java

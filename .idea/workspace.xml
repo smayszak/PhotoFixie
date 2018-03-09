@@ -6,11 +6,61 @@
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/tests/ApplicationOptionsReaderTest.java" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/tests/ApplicationOptionsReaderTest.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="888488b1-3f87-4fe2-a240-c1910397a395" name="Default" comment="" />
+    <list default="true" id="888488b1-3f87-4fe2-a240-c1910397a395" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/PhotoFixie.iml" afterPath="$PROJECT_DIR$/PhotoFixie.iml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/PhotoFixie_jar/PhotoFixie.jar" afterPath="$PROJECT_DIR$/out/artifacts/PhotoFixie_jar/PhotoFixie.jar" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Config/ApplicationOption.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Config/ApplicationOptionsReader.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Config/Help.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Runtime/DirectoryTreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Runtime/FileContext.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Runtime/SourceStructure.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Session/ISessionVersion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Session/RunSequence.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Session/Session.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Session/SessionBody.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Session/SessionHeader.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Session/SessionManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Session/SessionVersionFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/com/mayheim/Session/SessionVersionV1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/tests/ApplicationOptionsReaderTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/PhotoFixie/tests/SourceStructureTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Config/ApplicationOption.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Config/ApplicationOptionsReader.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Config/Help.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Runtime/DirectoryTreeNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Runtime/FileContext.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Runtime/SourceStructure.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Session/ISessionVersion.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Session/RunSequence.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Session/Session.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Session/SessionBody.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Session/SessionHeader.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Session/SessionManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Session/SessionVersionFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/mayheim/Session/SessionVersionV1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/ApplicationOptionsReaderTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/tests/SourceStructureTest.java" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,140 +68,70 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SessionManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionManager.java">
+      <file leaf-file-name="PhotoFixie.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PhotoFixie.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="252">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationOptionsReaderTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tests/ApplicationOptionsReaderTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="71" column="47" lean-forward="true" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
+            <state relative-caret-position="307">
+              <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SessionHeader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionHeader.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-              <folding>
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#1015#1016#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1108#1109#0" expanded="true" />
-                <element signature="e#1143#1144#0" expanded="true" />
-                <element signature="e#1197#1198#0" expanded="true" />
-                <element signature="e#1245#1246#0" expanded="true" />
-                <element signature="e#1294#1295#0" expanded="true" />
-                <element signature="e#1335#1336#0" expanded="true" />
-                <element signature="e#1378#1379#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-                <element signature="e#1460#1461#0" expanded="true" />
-                <element signature="e#1499#1500#0" expanded="true" />
-                <element signature="e#1535#1536#0" expanded="true" />
-                <element signature="e#1567#1568#0" expanded="true" />
-                <element signature="e#1600#1601#0" expanded="true" />
-                <element signature="e#1629#1630#0" expanded="true" />
-                <element signature="e#1664#1665#0" expanded="true" />
-                <element signature="e#1695#1696#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ISessionVersion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/ISessionVersion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            <state relative-caret-position="144">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SessionVersionV1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionVersionV1.java">
+      <file leaf-file-name="ApplicationOptionsReaderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tests/ApplicationOptionsReaderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="216">
+              <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApplicationOptionsReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mayheim/Config/ApplicationOptionsReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="e#1073#1074#0" expanded="true" />
-                <element signature="e#1107#1108#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SessionVersionFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionVersionFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionVersionFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SessionBody.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionBody.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SourceStructureTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/SourceStructureTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tests/SourceStructureTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="91" lean-forward="true" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
+            <state relative-caret-position="108">
+              <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunSequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/RunSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -172,6 +152,9 @@
       <find>_subFolders</find>
       <find>_settings</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -209,15 +192,42 @@
         <option value="$PROJECT_DIR$/src/com/mayheim/Session/SessionHeader.java" />
         <option value="$PROJECT_DIR$/src/tests/SettingsTest.java" />
         <option value="$PROJECT_DIR$/src/tests/ApplicationOptionsReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionVersionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/ApplicationOptionsReaderTest.java" />
+        <option value="$PROJECT_DIR$/PhotoFixie.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mayheim/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="156" />
-    <option name="y" value="125" />
-    <option name="width" value="1430" />
-    <option name="height" value="828" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PhotoFixie" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PhotoFixie" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PhotoFixie" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -251,34 +261,22 @@
               <item name="PhotoFixie" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhotoFixie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mayheim" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PhotoFixie" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhotoFixie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mayheim" type="462c0819:PsiDirectoryNode" />
-              <item name="Config" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PhotoFixie" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhotoFixie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mayheim" type="462c0819:PsiDirectoryNode" />
-              <item name="Runtime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhotoFixie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhotoFixie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mayheim" type="462c0819:PsiDirectoryNode" />
-              <item name="Session" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhotoFixie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhotoFixie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,7 +287,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mayheim/Session" />
@@ -299,17 +297,12 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="tests" />
       <recent name="com.mayheim" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.mayheim.Session" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.mayheim.Session" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -318,6 +311,15 @@
       <recent name="$PROJECT_DIR$/src/com/mayheim/Session" />
       <recent name="$PROJECT_DIR$/src/com/mayheim/Runtime" />
       <recent name="$PROJECT_DIR$/src/com/mayheim/Config" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mayheim.Session" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mayheim.Session" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -462,8 +464,10 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/PhotoFixie_jar/PhotoFixie.jar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <envs />
+      <module name="PhotoFixie" />
       <method>
         <option name="BuildArtifacts" enabled="true">
           <artifact name="PhotoFixie:jar" />
@@ -552,19 +556,18 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="125" width="1920" height="1020" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1020" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852387" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15027624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14983352" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16458334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45394006" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -611,7 +614,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="33" column="31" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
@@ -619,7 +622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Config/ApplicationOptionsReader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Config/ApplicationOptionsReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -627,23 +630,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/Session.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/Session.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
           <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#566#567#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/ISessionVersion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/ISessionVersion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="43" />
@@ -651,7 +654,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionBody.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionBody.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -659,7 +662,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Runtime/DirectoryTreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Runtime/DirectoryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="8" column="85" lean-forward="true" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
@@ -667,16 +670,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionVersionV1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionVersionV1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#357#358#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#476#477#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -712,18 +715,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mayheim/SourceStructureTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Config/Help.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Config/Help.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -735,7 +730,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Runtime/DirectoryTreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Runtime/DirectoryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
@@ -743,7 +738,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Config/ApplicationOption.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Config/ApplicationOption.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
@@ -751,30 +746,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Runtime/FileContext.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Runtime/FileContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="35" />
           <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="false" />
+            <element signature="e#418#419#0" expanded="false" />
+            <element signature="e#448#449#0" expanded="false" />
+            <element signature="e#478#479#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/RunSequence.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/RunSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Runtime/SourceStructure.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Runtime/SourceStructure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
@@ -782,7 +777,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionBody.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionBody.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -790,7 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/ISessionVersion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/ISessionVersion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
@@ -798,56 +793,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionVersionV1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionVersionV1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#357#358#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#476#477#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionVersionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/Session.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/Session.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#566#567#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Config/ApplicationOptionsReader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Config/ApplicationOptionsReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="false" />
+            <element signature="e#1107#1108#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
@@ -855,51 +842,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/SourceStructureTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="91" lean-forward="true" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mayheim/Session/SessionHeader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionHeader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
           <folding>
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1108#1109#0" expanded="true" />
-            <element signature="e#1143#1144#0" expanded="true" />
-            <element signature="e#1197#1198#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
-            <element signature="e#1294#1295#0" expanded="true" />
-            <element signature="e#1335#1336#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-            <element signature="e#1460#1461#0" expanded="true" />
-            <element signature="e#1499#1500#0" expanded="true" />
-            <element signature="e#1535#1536#0" expanded="true" />
-            <element signature="e#1567#1568#0" expanded="true" />
-            <element signature="e#1600#1601#0" expanded="true" />
-            <element signature="e#1629#1630#0" expanded="true" />
-            <element signature="e#1664#1665#0" expanded="true" />
-            <element signature="e#1695#1696#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#757#758#0" expanded="false" />
+            <element signature="e#817#818#0" expanded="false" />
+            <element signature="e#869#870#0" expanded="false" />
+            <element signature="e#912#913#0" expanded="false" />
+            <element signature="e#951#952#0" expanded="false" />
+            <element signature="e#1015#1016#0" expanded="false" />
+            <element signature="e#1071#1072#0" expanded="false" />
+            <element signature="e#1108#1109#0" expanded="false" />
+            <element signature="e#1143#1144#0" expanded="false" />
+            <element signature="e#1197#1198#0" expanded="false" />
+            <element signature="e#1245#1246#0" expanded="false" />
+            <element signature="e#1294#1295#0" expanded="false" />
+            <element signature="e#1335#1336#0" expanded="false" />
+            <element signature="e#1378#1379#0" expanded="false" />
+            <element signature="e#1413#1414#0" expanded="false" />
+            <element signature="e#1460#1461#0" expanded="false" />
+            <element signature="e#1499#1500#0" expanded="false" />
+            <element signature="e#1535#1536#0" expanded="false" />
+            <element signature="e#1567#1568#0" expanded="false" />
+            <element signature="e#1600#1601#0" expanded="false" />
+            <element signature="e#1629#1630#0" expanded="false" />
+            <element signature="e#1664#1665#0" expanded="false" />
+            <element signature="e#1695#1696#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/ApplicationOptionsReaderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="71" column="47" lean-forward="true" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/SourceStructureTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Session/SessionVersionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PhotoFixie.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/ApplicationOptionsReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mayheim/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           <folding />
         </state>
       </provider>
