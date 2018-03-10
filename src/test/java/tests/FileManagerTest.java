@@ -1,14 +1,14 @@
 package tests;
 
 import com.mayheim.Config.ApplicationOptionsReader;
-import com.mayheim.Runtime.SourceStructure;
+import com.mayheim.Runtime.FileManager;
 import com.mayheim.Session.SessionHeader;
 
 import java.nio.file.Paths;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class SourceStructureTest {
+class FileManagerTest {
     @org.junit.jupiter.api.Test
     void canReadSingleDirectory() throws Exception {
         String[] args = new String[2];
@@ -16,7 +16,7 @@ class SourceStructureTest {
         args[1] = "/home/steve/Pictures";
         ApplicationOptionsReader applicationOptionsReader = new ApplicationOptionsReader();
         SessionHeader header = applicationOptionsReader.buildSessionHeader(args);
-        SourceStructure structure = new SourceStructure();
+        FileManager structure = new FileManager();
         structure.init(Paths.get(header.get_rootDirectory()));
         assertNotNull(structure.getDirectory());
 
@@ -30,7 +30,7 @@ class SourceStructureTest {
         args[2] = "-e";
         ApplicationOptionsReader applicationOptionsReader = new ApplicationOptionsReader();
         SessionHeader header = applicationOptionsReader.buildSessionHeader(args);
-        SourceStructure structure = new SourceStructure();
+        FileManager structure = new FileManager();
         structure.init(Paths.get(header.get_rootDirectory()));
         structure.PrintTree();
         assertNotNull(structure.getDirectory());

@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="PhotoFixie" target="1.8" />
+      <module name="PhotoFixie" target="9.0" />
     </bytecodeTargetLevel>
   </component>
 </project>

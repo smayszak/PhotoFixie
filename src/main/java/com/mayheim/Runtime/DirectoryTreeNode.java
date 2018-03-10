@@ -1,5 +1,6 @@
 package com.mayheim.Runtime;
 
+import java.io.File;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
@@ -11,12 +12,6 @@ public class DirectoryTreeNode {
 
     public void setPath(Path path){
         _path = path;
-    }
-    public void setSubFolders(List<DirectoryTreeNode> subFolders){
-        _subFolders = subFolders;
-    }
-    public void setFileCount(int fileCount){
-        _fileCount = fileCount;
     }
 
     public void addNode(DirectoryTreeNode node) {
@@ -36,5 +31,21 @@ public class DirectoryTreeNode {
 
     public int getFileCount() {
         return _fileCount;
+    }
+
+    public File[] getFiles(){
+
+        File[] filesInDirectory = new File[getFileCount()];
+        int index = 0;
+
+        File[] files = _path.toFile().listFiles();
+        for (File file : files) {
+            if (!file.isDirectory()) {
+                filesInDirectory[index] = file;
+                index = index++;
+            }
+        }
+        return filesInDirectory;
+
     }
 }

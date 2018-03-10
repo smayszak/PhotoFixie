@@ -1,7 +1,5 @@
 package com.mayheim.Session;
 
-import com.mayheim.Runtime.SourceStructure;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -72,9 +70,6 @@ public class SessionManager {
 
         Session newSession = new Session();
         newSession.setSessionHeader(_header);
-        SourceStructure source = new SourceStructure();
-        source.init(Paths.get(_header.get_rootDirectory()));
-        source.PrintTree();
 
         UUID sessionId = UUID.randomUUID();
         _header.set_sessionUUID(sessionId);

@@ -14,15 +14,13 @@ public class Session {
 
     }
 
-    public void setSessionFile(File file){
-        this._sessionFile =file;
-    }
     public void setSessionHeader(SessionHeader header){
         this._header =header;
     }
     public SessionHeader getSessionHeader(){
         return this._header;
     }
+    public SessionBody getSessionBody() { return _body; }
 
     public boolean Init(File file, int indexRef) {
         _sessionShortRef = indexRef;

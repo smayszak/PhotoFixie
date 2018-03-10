@@ -1,5 +1,6 @@
 package com.mayheim.Session;
 
+import java.io.File;
 import java.util.UUID;
 
 public class SessionHeader {
@@ -11,6 +12,13 @@ public class SessionHeader {
     private boolean _helpMode;
     private boolean _audit;
     private boolean _execute;
+
+    public void Deserialize(File file) {
+
+    }
+
+    public String Serialize() {return null;
+    }
 
     public int get_totalFileCount() {
         return _totalFileCount;

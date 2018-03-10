@@ -1,7 +1,10 @@
-package com.mayheim.Session;
+package com.mayheim.Runtime;
 
 import com.mayheim.Config.ApplicationOptionsReader;
 import com.mayheim.Config.Help;
+import com.mayheim.Session.Session;
+import com.mayheim.Session.SessionHeader;
+import com.mayheim.Session.SessionManager;
 
 public class RunSequence {
     public void Run(String[] args) throws Exception {
@@ -19,6 +22,8 @@ public class RunSequence {
 
         SessionManager sessionMgr = new SessionManager(header);
         Session session = sessionMgr.InitializeSession();
+        Processor program = new Processor();
+        program.Run(session);
 
         System.out.println("exit");
         // write your code here
